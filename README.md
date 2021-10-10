@@ -1,2 +1,2 @@
 # Dummy-LaTeX-Template
- What the f*ck LaTeX? 😱
+LaTeX templates used for my course homework, project report, etc.
